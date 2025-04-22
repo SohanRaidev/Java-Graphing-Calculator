@@ -19,10 +19,10 @@ public class AdvancedCalculator {
     
     public double evaluate(String expression, double xValue) throws CalculatorException {
         try {
-            // Replace variables with the given value
+            // Replace variables with the given value.
             expression = replaceVariables(expression, xValue);
             
-            // Replace function names with stored expressions
+            // Replace function names with stored expressions.
             for (Map.Entry<String, String> entry : savedFunctions.entrySet()) {
                 String funcName = entry.getKey();
                 String funcExpr = entry.getValue();
