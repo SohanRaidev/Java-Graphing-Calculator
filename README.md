@@ -1,4 +1,4 @@
-# Advanced Graphing Calculator
+# JAVA Graphing Calculator
 
 A feature-rich calculator application built in Java with graphing capabilities. This application provides an intuitive interface for performing mathematical operations and visualizing functions.
 
