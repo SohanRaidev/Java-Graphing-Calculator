@@ -6,10 +6,11 @@ A feature-rich calculator application built in Java with graphing capabilities. 
 ## Screenshots
 
 ### Calculator Interface
-![Calculator Interface](Screenshot%202025-04-11%20at%209.13.07%20PM.png)
+<img src="ss1.png" alt="Calculator Interface" width="700">
 
 ### Graphing Functions
-![Graphing Functions](Screenshot%202025-04-11%20at%209.46.10%20PM.png)
+<img src="ss2.png" alt="Graphing Functions" width="700">
+
 
 ## Usage Instructions
 
